@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Nhacaiuytin2025.com Chuyên Giá Xếp Hạng Nhà Cái Uy Tín
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nhacaiuytin2025.com <https://nhacaiuytin2025.com/>`_ là website chuyên đánh giá và xếp hạng các nhà cái uy tín hàng đầu tại Việt Nam tự hào là nguồn thông tin đáng tin cậy cho anh em cược thủ. Chúng tôi cung cấp các nhận định chi tiết và công tâm, nhằm giúp bạn đưa ra lựa chọn thông minh và an toàn khi tham gia chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông Tin Chi Tiết:
 
-.. note::
+Website: https://nhacaiuytin2025.com/
 
-   This project is under active development.
+Địa Chỉ: 3 P. Lương Yên, Bạch Đằng, Hai Bà Trưng, Hà Nội
 
-Contents
---------
+Số Điện Thoại: 0587609555
 
-.. toctree::
+Email: nhacaiuytin2025.com@gmail.com
 
-   usage
-   api
+#nhacaiuytin #topnhacaiuytin #topnhacai #danhgianhacai #nhacaiuytin2025com #nhacaiuytin2025
